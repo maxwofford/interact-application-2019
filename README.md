@@ -41,7 +41,7 @@ I built [hackathons.hackclub.com](http://hackathons.hackclub.com/) in 2 days, wh
 
 The achievement I'm most proud of in 2018 is launching Hack Club Bank (https://hackclub.com/bank). In less than a month, I led a team of three to launch the first nonprofit fiscal sponsorship platform for students under the age of 18. Our launch post on Hacker News was the most popular post of the day, reaching 20K uniques, and the product has since done over $200,000 in transactions over the past 6 months. We've signed on 40 events during our invite-only beta, already enabling hackathons with over 1,000 unique attendees.
 
-In 2019 I hope to increase my capacity to work on meaningful goals by getting more people involved in the projects I work on. It's one thing to build my own projects that have impact on people, it's another to build a team of people working on larger projects than I could take on myself. The only way for Hack Club to become a household name is to grow it faster than I can do alone.
+In 2019 I hope to increase my capacity to work on meaningful goals by getting more people involved in the projects I work on. The only way for Hack Club to become a household name in my lifetime is to grow it faster than I can do alone. It's one thing to build my own projects that have impact on people, it's another to build a team of people working on larger projects than I could take on myself. 
 
 ## Tell us about three core interests you have. Why do you care about these things?
 
