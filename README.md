@@ -33,6 +33,16 @@ https://gh.maxwofford.com
 
 ## What did you create in 2018 that you’re the most proud of? Do you have any major projects or initiatives in mind for 2019?
 
+I'm most proud of my work with [Hack Club](https://hackclub.com/) (https://hackclub.com), a nonprofit network of high school computer science clubs, as our operations lead this past year. As operations lead, I manage onboarding new clubs, growing our community, and ensuring that our leaders have the support they need to succeed.
+
+In 2018, my work was directly responsible for Hack Club growing from 220 to over 300 schools and our Slack community growing from 367K annual messages in 2017 to 1.8M+ in 2018 (5x increase).
+
+I built [hackathons.hackclub.com](http://hackathons.hackclub.com/) in 2 days, which is now the most popular high school hackathon directory worldwide. At launch, it front-paged Product Hunt & since then has gotten email subscribers in 200+ cities across 30+ countries. It’s been up for only 8 months, and is now the first result for almost any query around high school hackathons.
+
+The achievement I'm most proud of in 2018 is launching Hack Club Bank (https://hackclub.com/bank). In less than a month, I led a team of three to launch the first nonprofit fiscal sponsorship platform for students under the age of 18. Our launch post on Hacker News was the most popular post of the day, reaching 20K uniques, and the product has since done over $200,000 in transactions over the past 6 months. We've signed on 40 events during our invite-only beta, already enabling hackathons with over 1,000 unique attendees.
+
+In 2019 I hope to increase my capacity to work on meaningful goals by getting more people involved in the projects I work on. It's one thing to build my own projects that have impact on people, it's another to build a team of people working on larger projects than I could take on myself. The only way for Hack Club to become a household name is to grow it faster than I can do alone.
+
 ## Tell us about three core interests you have. Why do you care about these things?
 
 
